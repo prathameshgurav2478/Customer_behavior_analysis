@@ -30,8 +30,7 @@ The dataset contains customer purchase information, including:
 - **Python**
   - Pandas
   - NumPy
-  - Matplotlib
-  - Seaborn
+  
 
 - **SQL**
   - MySQL Workbench
